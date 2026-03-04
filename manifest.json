@@ -1,0 +1,16 @@
+{
+  "name": "Kairós",
+  "short_name": "Kairós",
+  "description": "Aplicativo de plantões 24/72",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#002a45",
+  "theme_color": "#002a45",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png"
+    }
+  ]
+}
